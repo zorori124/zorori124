@@ -1,4 +1,5 @@
-## Hi there 👋
+# self-introduction
+🌱 I’m currently learning　**LLM**
 
 <!--
 **zorori124/zorori124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
